@@ -18,8 +18,11 @@ body {
   }
   
   @media (max-width:768px) {
-    .link { text-align: center;
-  }
+    
+    .link {
+      text-align: center;
+    }
+    
   }
   .main {
     display: block;
